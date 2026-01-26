@@ -28,7 +28,7 @@ Aplicativo mobile que consome a Api do Youtube e lista conteúdos para desenvolv
 
 Foto | Nome | GitHub | Likedin | E-mail
 ---- | ---- | ------ | ------- | ------
-<img src="./doc/levi.jpg" width="100px">  | Rafael Levi Batista Costa | [Rafael Levi](https://github.com/rafaellevissa) | [Linkedin](https://www.linkedin.com/in/rafaellevissa/) | rafaellevissa@gmail.com
+<img src="./doc/levi.jpg" width="100px">  | Samuel Cruz dos Santos | [Samuel Cruz]([(https://github.com/smlcruzs)]) | [Linkedin]([(https://www.linkedin.com/in/samuel-cruzsp/)]) | smlcruzs@gmail.com
 
 ## :computer: Tecnologias
 
@@ -54,21 +54,3 @@ Uma amostra de como as tecnologias estão se relacionando no DevFlix.
 
 Foi utilizado o React Native para desenvolver a estrutura do app, e através da biblioteca axios consumimos a api do Youtube que nos retorna os vídeos desejados.
 
-## :handshake: Contribuindo
-
-Confira a página [CONTRIBUTING](https://github.com/rafaellevissa/appDevFlix/blob/master/CONTRIBUTING.md) página para ver os melhores locais para arquivar problemas, iniciar discussões e começar a contribuir.
-
-## :open_book: License
-
-Lançado em 2020.
-Este projeto está sob a [MIT license](https://github.com/rafaellevissa/appDevFlix/blob/master/LICENSE).
-
-<p align="center">
-    Feito com :heart: por <a href="https://github.com/rafaelevissa">Rafael Levi</a>
-</p>
-
-<!-- Markdown link & img dfn's -->
-
-[npm-license]: https://img.shields.io/npm/l/express?color=03ca6f&style=plastic
-[npm-version]: https://img.shields.io/npm/v/npm?color=333333&style=plastic
-[code-size]: https://img.shields.io/github/languages/code-size/rafaellevissa/appDevFlix?color=03ca6f&style=plastic
